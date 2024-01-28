@@ -10,8 +10,8 @@
         "data": {
           "temperature_sensor": "Sensore di temperatura",
           "humidity_sensor": "Sensore di umidità",
-          "poll": "Abilita polling",
-          "scan_interval": "Intervallo di polling (secondi)",
+          "poll": "Abilita scansione",
+          "scan_interval": "Intervallo di scansione (secondi)",
           "custom_icons": "Usa il pacchetto di icone personalizzate"
         }
       }
@@ -34,8 +34,8 @@
           "name": "Nome",
           "temperature_sensor": "Sensore di temperatura",
           "humidity_sensor": "Sensore di umidità",
-          "poll": "Abilita polling",
-          "scan_interval": "Intervallo di polling (secondi)",
+          "poll": "Abilita scansione",
+          "scan_interval": "Intervallo di scansione (secondi)",
           "custom_icons": "Usa pacchetto icone personalizzato",
           "enabled_sensors": "Sensori abilitati"
         }
@@ -85,7 +85,7 @@
         "name": "Percezione dell'humidex",
         "state": {
           "comfortable": "Confortevole",
-          "noticable_discomfort": "Disagio",
+          "noticable_discomfort": "Notevole disagio",
           "evident_discomfort": "Disagio significativo",
           "great_discomfort": "Disagio enorme, evitare affaticamenti",
           "dangerous_discomfort": "Disagio pericoloso",
